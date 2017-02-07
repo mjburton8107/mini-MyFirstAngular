@@ -1,4 +1,5 @@
 .friendList{
   border: 1px solid black;
   background-color: gray;
+  border-radius: 10px;
 }
